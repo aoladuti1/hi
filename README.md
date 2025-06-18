@@ -1,2 +1,4 @@
 # hi
-landing page for business stuff
+
+## business
+contact: 07940 129205 | tedasukei@gmail.com
